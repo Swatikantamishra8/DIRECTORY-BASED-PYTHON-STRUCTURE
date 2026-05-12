@@ -1,0 +1,4 @@
+Line 1: Python is powerful.
+Line 2: File handling is essential.
+Line 3: Always close your files!
+Line 4: Appended with mode 'a'.

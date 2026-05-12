@@ -1,0 +1,6 @@
+2026-05-13 10:00:01 INFO  Server started on port 8080
+2026-05-13 10:00:15 WARN  Slow query detected (2.3s)
+2026-05-13 10:01:02 ERROR Database connection timeout
+2026-05-13 10:01:03 ERROR Retry failed after 3 attempts
+2026-05-13 10:02:00 INFO  Connection re-established
+2026-05-13 10:05:00 WARN  Memory usage at 85%

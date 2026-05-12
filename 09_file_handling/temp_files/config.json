@@ -1,0 +1,13 @@
+{
+  "app_name": "PyMastery",
+  "version": "1.0",
+  "features": [
+    "lessons",
+    "quizzes",
+    "projects"
+  ],
+  "settings": {
+    "theme": "dark",
+    "language": "en"
+  }
+}
